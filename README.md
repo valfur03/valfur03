@@ -41,6 +41,7 @@ I am Valentin Furmanek, a passionate software engineer constantly creating new t
 ![Ansible](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - [my-whole-server](https://github.com/valfur03/my-whole-server) – Compose files for all the services I host in my Homelab.
+- [home-assistant-compose](https://github.com/valfur03/home-assistant-compose) – Compose files to setup Home Assistant stack at my home.
 - [homeserver-playbook](https://github.com/valfur03/homeserver-playbook) – Ansible playbooks for my Homelab.
 - [dotfiles](https://github.com/valfur03/dotfiles) – Personal dotfiles.
 
