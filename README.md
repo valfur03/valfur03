@@ -21,6 +21,7 @@ I am Valentin Furmanek, a passionate software engineer constantly creating new t
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 - [portfolio](https://github.com/valfur03/portfolio) – Personal portfolio, live at https://valfur.fr.
+- [ferrovi.pt](https://github.com/valfur03/ferrovi.pt) – Game testing your knowledge of the Paris metro.
 - [votes-data](https://github.com/valfur03/votes-data) – Data visualization project (POC) about elections in France.
 - [42cal](https://github.com/vfurmane/42cal) – An iCal API to see upcoming events at [42](https://42.fr) in a calendar, live at https://42cal.valfur.fr ([API](https://api.42cal.valfur.fr)).
 - [swile-planner](https://github.com/valfur03/swile-planner) – A tool to plan the usage of meal vouchers credit on a Swile account, live at https://swile.valfur.fr.
